@@ -44,7 +44,9 @@ menu:
     weight: 4
   - name: Education
     weight: 3
-  - name: About Us
+  - url: "/aboutus"
+    name: About Us
     weight: 2
-  - name: Home
+  - url: "/"
+    name: Home
     weight: 1
