@@ -1,6 +1,6 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "AZIAAO - Arizona IAAO Chapter"
 
 module:
   imports:
@@ -17,7 +17,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: '/images/logo.png'
-  site_logo: ''
+  site_logo: '/images/logo.png'
   description: The last theme you'll ever need. Maybe.
   facebook: ''
   twitter: 'https://twitter.com/GoHugoIO'
