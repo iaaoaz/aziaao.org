@@ -1,11 +1,10 @@
-baseURL: "http://example.org/"
-languageCode: "en-us"
-title: "AZIAAO - Arizona IAAO Chapter"
-
+---
+baseURL: http://example.org/
+languageCode: en-us
+title: AZIAAO - Arizona IAAO Chapter
 module:
   imports:
-    - path: github.com/theNewDynamic/gohugo-theme-ananke
-
+  - path: github.com/theNewDynamic/gohugo-theme-ananke
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 3
@@ -16,11 +15,11 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-  favicon: '/images/logo.png'
-  site_logo: '/images/logo.png'
+  favicon: "/images/logo.png"
+  site_logo: "/images/logo.png"
   description: The last theme you'll ever need. Maybe.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: https://twitter.com/GoHugoIO
   instagram: ''
   youtube: ''
   github: ''
@@ -31,5 +30,21 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2
+menu:
+  main:
+  - name: Membership Login
+    weight: 8
+  - name: Careers
+    weight: 6
+  - name: Events
+    weight: 5
+  - name: Join AZ IAAO
+    weight: 4
+  - name: Education
+    weight: 3
+  - name: About Us
+    weight: 2
+  - name: Home
+    weight: 1
