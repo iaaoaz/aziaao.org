@@ -1,6 +1,6 @@
 +++
 date = 2022-01-20T22:12:00Z
-description = ""
+description = "About La Paz County"
 disable_share = false
 featured_image = "/images/mountgraham.jpg"
 tags = ["scene"]
