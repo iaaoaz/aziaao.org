@@ -16,7 +16,7 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-  favicon: ''
+  favicon: '/images/logo.png'
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
   facebook: ''
