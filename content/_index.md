@@ -1,8 +1,7 @@
 ---
-title: AZ IAAO - Home
+title: Arizona International Association of Assessing Officers
 featured_image: "/images/iaao_tonal_logotype_only.png"
-description: Welcome to the Arizona chapter of the International Association of Assessing
-  Officers
+description: Home
 
 ---
 We are a organization committed to fair and equitable property valuation.
