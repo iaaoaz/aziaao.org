@@ -4,7 +4,7 @@ description = ""
 disable_share = false
 featured_image = "/images/mountgraham.jpg"
 tags = ["scene"]
-title = "County Spotlight: Graham County"
+title = "County Highlight: Graham County"
 
 +++
 Graham County has a total of 4,641 square miles, only of which about 10% is privately owned. The rest is spread between federal, state and Native American reservation lands. The assessor’s office manages a whopping 17,500 parcels--the size of some mobile home parks in Maricopa County.
