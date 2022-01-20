@@ -2,7 +2,6 @@
 date = 2022-01-20T22:12:00Z
 description = ""
 disable_share = false
-draft = true
 featured_image = "/images/mountgraham.jpg"
 tags = ["scene"]
 title = "County Spotlight: Graham County"
