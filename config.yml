@@ -30,7 +30,7 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image: "/images/three.jpg"
   recent_posts_number: 2
 menu:
   main:
