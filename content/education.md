@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Appraisal education opportunities in Arizona"
 featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
 title = "Education"
 [menu.main]
