@@ -1,5 +1,5 @@
 +++
-description = "Career Opportunities"
+description = ""
 featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
 title = "Careers"
 [menu.main]
