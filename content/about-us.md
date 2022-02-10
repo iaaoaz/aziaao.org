@@ -1,6 +1,5 @@
 +++
 description = "A MESSAGE FROM THE PRESIDENT"
-draft = true
 featured_image = ""
 title = "About Us"
 
