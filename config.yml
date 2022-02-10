@@ -37,8 +37,6 @@ menu:
   - url: "/"
     name: Home
     weight: 1
-  - name: Membership Login
-    weight: 8
   - name: Careers
     weight: 6
   - name: Events
