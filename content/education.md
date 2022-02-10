@@ -2,6 +2,8 @@
 description = ""
 featured_image = ""
 title = "Education"
+[menu.main]
+weight = 3
 
 +++
 Thank you for your interest in increasing your knowledge of the Assessment profession.

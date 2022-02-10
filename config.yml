@@ -37,11 +37,3 @@ menu:
   - url: "/"
     name: Home
     weight: 1
-  - name: Careers
-    weight: 6
-  - name: Events
-    weight: 5
-  - name: Join AZ IAAO
-    weight: 4
-  - name: Education
-    weight: 3

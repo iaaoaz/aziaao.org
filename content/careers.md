@@ -2,6 +2,8 @@
 description = "Career Opportunities"
 featured_image = ""
 title = "Careers"
+[menu.main]
+weight = 6
 
 +++
 NEW OPPORTUNITY WITH PIMA COUNTY
