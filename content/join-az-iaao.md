@@ -1,5 +1,5 @@
 +++
-description = "BECOME A MEMBER TODAY!"
+description = "Become a member today!"
 featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
 title = "Join AZ IAAO"
 [menu.main]
