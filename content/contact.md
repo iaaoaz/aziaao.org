@@ -2,7 +2,7 @@
 title: Contact
 featured_image: "/images/cropped-mbeck2-2400x1299.jpg"
 omit_header_text: true
-description: ''
+description: We would love to hear from you!
 type: page
 menu:
   main:
