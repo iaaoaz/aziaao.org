@@ -37,9 +37,6 @@ menu:
   - url: "/"
     name: Home
     weight: 1
-  - url: "/about_us"
-    name: About Us
-    weight: 2
   - name: Membership Login
     weight: 8
   - name: Careers
