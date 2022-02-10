@@ -1,6 +1,6 @@
 +++
 description = "A MESSAGE FROM THE PRESIDENT"
-featured_image = ""
+featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
 title = "About Us"
 [menu.main]
 weight = 2
