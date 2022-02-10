@@ -34,6 +34,12 @@ params:
   recent_posts_number: 2
 menu:
   main:
+  - url: "/"
+    name: Home
+    weight: 1
+  - url: "/about_us"
+    name: About Us
+    weight: 2
   - name: Membership Login
     weight: 8
   - name: Careers
@@ -44,9 +50,3 @@ menu:
     weight: 4
   - name: Education
     weight: 3
-  - url: "/aboutus"
-    name: About Us
-    weight: 2
-  - url: "/"
-    name: Home
-    weight: 1
