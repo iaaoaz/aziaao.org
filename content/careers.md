@@ -1,6 +1,6 @@
 +++
 description = "Career Opportunities"
-featured_image = ""
+featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
 title = "Careers"
 [menu.main]
 weight = 6
