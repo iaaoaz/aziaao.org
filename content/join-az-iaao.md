@@ -1,6 +1,6 @@
 +++
 description = "BECOME A MEMBER TODAY!"
-featured_image = ""
+featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
 title = "Join AZ IAAO"
 [menu.main]
 weight = 4
