@@ -1,7 +1,7 @@
 +++
 description = ""
 featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
-title = "Education"
+title = ""
 [menu.main]
 weight = 3
 
