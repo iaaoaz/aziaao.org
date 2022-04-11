@@ -8,6 +8,6 @@ tags = ["scene"]
 title = "Legislative Update"
 
 +++
-Please attend our Legislative Update April 28, at 3:00 p.m.  The meeting is being hosted virtually and a link is included in the following flyer:
+Please attend our Legislative Update April 28, at 3:00 p.m.  The meeting is being hosted virtually and a link is included in the following flyer: 
 
 [Legislative Update Flyer]("/images/aziaao4-28-22.pdf")
