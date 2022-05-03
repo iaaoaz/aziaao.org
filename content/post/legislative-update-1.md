@@ -2,7 +2,7 @@
 date = 2022-04-28T22:05:25Z
 description = "Recording of AZIAAO's Legislative Update virtual meeting"
 disable_share = false
-featured_image = "/images/1.png"
+featured_image = "/images/2.png"
 tags = ["scene"]
 title = "Legislative Update Video Posted"
 
