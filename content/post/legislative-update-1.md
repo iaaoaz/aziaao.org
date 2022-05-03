@@ -2,7 +2,6 @@
 date = 2022-04-28T22:05:25Z
 description = "AZIAAO's Legislative Update virtual meeting"
 disable_share = false
-draft = true
 featured_image = "/images/1.png"
 tags = ["scene"]
 title = "Legislative Update"
