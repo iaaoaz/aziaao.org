@@ -10,4 +10,4 @@ title = "Legislative Update"
 +++
 Below is a video recording of the Legislative Update virtual meeting hosted by the Arizona IAAO chapter on April 28, 2022.  Tyler Lopez and Luke Macomber presented an overview of Arizona state legislature and the function of its various committees.
 
-{{< video library="1" src="/images/aziaao-leg-update-4-28-22.mp4" controls="yes" >}}
+{{< video library="1" src="https://youtu.be/KR3DXRdcIQc" controls="yes" >}}
