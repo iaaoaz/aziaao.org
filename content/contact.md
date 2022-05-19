@@ -9,14 +9,13 @@ menu:
     weight: 7
 
 ---
-<form action="https://formspree.io/f/xayverjo" method="POST">
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <button type="submit">Send</button>
-</form>
+CONTACT US
+
+Email
+
+info@aziaao.org
+
+Address
+
+P.O. Box 1788  
+Phoenix, AZ 85001-1788
