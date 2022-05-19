@@ -14,5 +14,3 @@ Please select the seals below to check out opportunities throughout our state.
   <td><img src="/images/cochise.jpg" alt="2" width=360px height=360px></td>
 </th>
 </table>
-
-!\[\](/images/apache.png) |
