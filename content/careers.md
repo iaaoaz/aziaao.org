@@ -8,4 +8,4 @@ weight = 6
 +++
 Please select the seals below to check out opportunities throughout our state.
 
-<img src="/images/apache.png" width="128px" height="128px" />
+![Apache County](/images/apache.png width="128" height="128")
