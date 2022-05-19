@@ -17,6 +17,7 @@ Please select the seals below to check out opportunities throughout our state.
 </table>
 </div>
 
+
 {{ $htmlTable := .Inner | markdownify }}
 {{ $class := .Get 0 }}
 {{ $old := "<table>" }}
