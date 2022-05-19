@@ -12,28 +12,28 @@ Please select the seals below to check out opportunities throughout our state.
 
 !\[Cochise County\](/images/cochise.png)
 
-!\[Cochise County\](/images/coconino.png)
+!\[Coconino County\](/images/coconino.png)
 
-!\[Cochise County\](/images/gila.png)
+!\[Gila County\](/images/gila.png)
 
-!\[Cochise County\](/images/graham.png)
+!\[GrahamCounty\](/images/graham.png)
 
-!\[Cochise County\](/images/greenlee.png)
+!\[Greenlee County\](/images/greenlee.png)
 
-!\[Cochise County\](/images/lapaz.png)
+!\[La Paz County\](/images/lapaz.png)
 
-!\[Cochise County\](/images/maricopa.png)
+!\[Maricopa County\](/images/maricopa.png)
 
-!\[Cochise County\](/images/mohave.png)
+!\[Mohave County\](/images/mohave.png)
 
-!\[Cochise County\](/images/navajo.png)
+!\[Navajo County\](/images/navajo.png)
 
-!\[Cochise County\](/images/pima.png)
+!\[Pima County\](/images/pima.png)
 
-!\[Cochise County\](/images/pinal.png)
+!\[Pinal County\](/images/pinal.png)
 
-!\[Cochise County\](/images/santacruz.png)
+!\[Santa Cruz County\](/images/santacruz.png)
 
-!\[Cochise County\](/images/yavapai.png)
+!\[Yavapai County\](/images/yavapai.png)
 
-!\[Cochise County\](/images/yuma.png)
+!\[Yuma County\](/images/yuma.png)
