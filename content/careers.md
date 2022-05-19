@@ -9,23 +9,25 @@ weight = 6
 Please select the seals below to check out opportunities throughout our state.
 
 <div>
-  
+
 <table>
-  <tr>
-    <td>![a](/images/apache.png "a")</td>
-    <td>b</td>
-    <td>c</td>
-  </tr>
-  <tr>
-    <td>![a](/images/apache.png "a")</td>
-    <td>b</td>
-    <td>c</td>
-  </tr>
-    <tr>
-    <td>![a](/images/apache.png "a")</td>
-    <td>b</td>
-    <td>c</td>
-  </tr>
+
+<tr>
+<td>![a](/images/apache.png "a")</td>
+<td>b</td>
+<td>c</td>
+</tr>
+<tr>
+<td>![a](/images/apache.png "a")</td>
+<td>b</td>
+<td>c</td>
+</tr>
+<tr>
+<td>![a](/images/apache.png "a")</td>
+<td>b</td>
+<td>c</td>
+</tr>
+
 </table>
-  
+
 </div>
