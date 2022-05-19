@@ -9,6 +9,7 @@ weight = 6
 Please select the seals below to check out opportunities throughout our state.
 
 <div>
+  
 <table>
   <tr>
     <td>![a](/images/apache.png "a")</td>
@@ -26,4 +27,5 @@ Please select the seals below to check out opportunities throughout our state.
     <td>c</td>
   </tr>
 </table>
+  
 </div>
