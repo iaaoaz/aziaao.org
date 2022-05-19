@@ -25,7 +25,7 @@ Please select the seals below to check out opportunities throughout our state.
 {{ $htmlTable | safeHTML }}
   
 {{<table "table table-striped table-bordered">}}
-|———-|———-|———-|
+|------|------|------|
 | Item 1   | Item 2   | Item 3   |
 | Item 1a  | Item 2a  | Item 3a  |
 {{</table>}}
