@@ -9,6 +9,7 @@ weight = 6
 Please select the seals below to check out opportunities throughout our state.
 
 ![Apache County](/images/apache.png width="128" height="128")
+
 <img src="/images/apage.png" width="128px" height="128px" />
 
 ![Cochise County](/images/cochise.png width="128" height="128")
