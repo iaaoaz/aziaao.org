@@ -9,8 +9,6 @@ menu:
     weight: 7
 
 ---
-CONTACT US
-
 Email
 
 info@aziaao.org
