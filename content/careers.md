@@ -10,4 +10,4 @@ Please select the seals below to check out opportunities throughout our state.
 
 ![Apache County](/images/apache.png)
 
-{{< figure src="/images/apache.png" width="64" >}}
+{{< figure src="/images/apache.png" width="64" rel="http://www.co.apache.az.us/jobs/">}}
