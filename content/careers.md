@@ -8,4 +8,4 @@ weight = 6
 +++
 Please select the seals below to check out opportunities throughout our state.
 
-{{< figure src="/images/apache.png" height="32" width="32" link="http://www.co.apache.az.us/jobs/" >}}
+{{< figure src="/images/apache.png" height="128" width="128" link="http://www.co.apache.az.us/jobs/" >}}
