@@ -1,6 +1,6 @@
 +++
 date = 2022-07-20T23:21:33Z
-description = ""
+description = "Register now for the August in-person meeting in Flagstaff"
 disable_share = false
 draft = true
 featured_image = "/images/11134_gnppo_lowell_observatory_flagstaff_arizona_lg.jpg"
