@@ -9,7 +9,7 @@ title = "August 10th in-person meeting in Flagstaff"
 +++
 Attached is the flyer for the August 10th in-person meeting in Flagstaff.
 
-Seating is limited to 50 people.  Please RSVP by August 2nd to [Email][Kelly.Murphy@maricopa.gov](mailto:Kelly.Murphy@maricopa.gov) with name, if you are an AZIAAO member and lunch choice.  Once all 50 seats have been reserved, I will send out a global email stating any additional request will be added to the waitlist.
+Seating is limited to 50 people.  Please RSVP by August 2nd to [Kelly.Murphy@maricopa.gov](mailto:Kelly.Murphy@maricopa.gov) with name, if you are an AZIAAO member and lunch choice.  Once all 50 seats have been reserved, I will send out a global email stating any additional request will be added to the waitlist.
 
 [Flagstaff Meeting Flyer](/images/AZIAAOFLYER8102022.pdf)
 
