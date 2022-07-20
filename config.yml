@@ -31,7 +31,7 @@ params:
   rss: ''
   background_color_class: bg-black
   featured_image: "/images/three.jpg"
-  recent_posts_number: 2
+  recent_posts_number: 4
 menu:
   main:
   - url: "/"
