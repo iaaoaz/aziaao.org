@@ -11,7 +11,7 @@ Attached is the flyer for the August 10th in-person meeting in Flagstaff.
 
 Seating is limited to 50 people.  Please RSVP by August 2nd to this email with name, if you are an AZIAAO member and lunch choice.  Once all 50 seats have been reserved, I will send out a global email stating any additional request will be added to the waitlist.
 
-[Flagstaff Meeting Flyer](/images/AZIAAO FLYER 8102022.pdf)
+[Flagstaff Meeting Flyer](/images/AZIAAOFLYER8102022.pdf)
 
 Registration will be $20 and can be paid in-person, or, using PayPal.  Please note that only current members will be allowed to register for the event.
 
