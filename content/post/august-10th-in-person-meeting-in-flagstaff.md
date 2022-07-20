@@ -3,7 +3,7 @@ date = 2022-07-20T23:21:33Z
 description = ""
 disable_share = false
 draft = true
-featured_image = ""
+featured_image = "/images/11134_gnppo_lowell_observatory_flagstaff_arizona_lg.jpg"
 tags = ["scene"]
 title = "August 10th in-person meeting in Flagstaff"
 
