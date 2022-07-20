@@ -15,4 +15,4 @@ More information to come next week.
 
 Registration will be $20 and can be paid in-person, or, using PayPal.  Please note that only current members will be allowed to register for the event.
 
-[paypal.me/aziaao](https://paypal.me/aziaao "Registration")
+[https://paypal.me/aziaao](https://paypal.me/aziaao "Registration")
