@@ -3,7 +3,7 @@ date = 2022-07-15T07:00:00Z
 description = "AZ IAAO will be hosting an in-person meeting at 11:30 a.m. on August 10th in Flagstaff"
 disable_share = false
 draft = true
-featured_image = ""
+featured_image = "/images/logo.png"
 tags = ["scene"]
 title = " Save the Date - August 10th in-person meeting"
 
