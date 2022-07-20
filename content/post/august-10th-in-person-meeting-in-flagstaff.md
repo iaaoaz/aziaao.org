@@ -14,4 +14,4 @@ Seating is limited to 50 people.  Please RSVP by August 2nd to this email with n
 
 Looking forward to seeing people in person in the cool pines of Flagstaff!
 
-[Legislative Update Flyer](/images/aziaao4-28-22.pdf)
+[AZ IAAO Flyer]('/images/AZIAAO FLYER 8102022pdf')
