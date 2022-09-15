@@ -7,7 +7,7 @@ tags = ["scene"]
 title = "Save The Date: October 5th Lunch-and-Learn"
 
 +++
-[Meeting Flyer](/images/FLYER.pdf)
+[Meeting Flyer](/images/flyer.png)
 
 Come join us for 4 hours of continuing education credits at the London Bridge Resort, Sir Lancelot Room, Lake Havasu City, AZ on October 5th, 2022.
 
