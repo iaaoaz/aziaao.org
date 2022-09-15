@@ -14,7 +14,5 @@ fields:
 pages:
 - content/_index.md
 - content/about-us.md
-- content/careers.md
 - content/education.md
-- content/events.md
 - content/join-az-iaao.md
