@@ -34,6 +34,6 @@ RSVP to secure seating to:
 [bgomez@co.apach.az.us](mailto:bgomez@co.apach.az.us "bgomez@co.apach.az.us")  or  
 [dennise.jones@co.apache.az.us](mailto:dennise.jones@co.apache.az.us "dennise.jones@co.apache.az.us")
 
-Attendees are encouraged to spend additional days in Lake Havasu City so they can attend the 2022 Arizona Tax Conference.  Please register at the following webpage:
+Attendees are encouraged to spend additional days in Lake Havasu City so they can attend the 2022 Arizona Tax Conference October 5th through 7th.  Please register at the following webpage:
 
 [2022 Arizona Tax Conference Registration](http://events.r20.constantcontact.com/register/event?llr=fljn4vdab&oeidk=a07ej5r475sff038074)
