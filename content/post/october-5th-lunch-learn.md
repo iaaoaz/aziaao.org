@@ -3,7 +3,7 @@ date = 2022-10-17T16:39:29Z
 description = "Our October 5th Lunch & Learn showcased three presentations"
 disable_share = false
 draft = true
-featured_image = ""
+featured_image = "/images/lhc.jpg"
 tags = ["scene"]
 title = "October 5th Lunch & Learn"
 
