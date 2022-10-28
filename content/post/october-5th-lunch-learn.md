@@ -13,6 +13,6 @@ Below are several of the presentations given during the session.  Note that thos
 
 * An overview of Low Income Housing Tax Credit (LIHTC) eligible properties presented by Arizona Department of Revenue's Darren Rasmussen {{< youtube "Yz6siLbSL4o" >}}
 * An overview of Ratio Studies presented by Arizona I.A.A.O. President Kelly Murphy and Director Bret McKee {{< youtube "jZfv64CHZsY" >}}
-* An overview of Tiny Homes presented by Arizona I.A.A.O. Secretary and Director Barbara Gomez {{< youtube "ihgWyF3Jknw" >}}
+* An overview of Tiny Homes presented by Arizona I.A.A.O. Secretary Barbara Gomez {{< youtube "ihgWyF3Jknw" >}}
 
 Again, we hope those in attendance enjoyed the Lunch & Learn and look forward to seeing more of our members during our next session in December.
