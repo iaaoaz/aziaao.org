@@ -24,6 +24,7 @@ fields:
   name: disable_share
   label: disable_share
 pages:
+- content/post/arizona-iaao-training-webinar-quality-control.md
 - content/post/august-10th-in-person-meeting-in-flagstaff.md
 - content/post/county-spotlight-graham-county.md
 - content/post/legislative-update-1.md
