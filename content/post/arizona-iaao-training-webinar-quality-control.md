@@ -14,4 +14,4 @@ December’s webinar will cover Quality Control, particularly techniques used by
 
 NOTE: If attending this webinar for DOR continuing education credit, please coordinate with your local DOR training liaison.
 
-[Quality Control Update Flyer](/images/aziaao4-28-22.pdf)
+[Quality Control Flyer](/images/aziaao4-28-22.pdf)
