@@ -2,7 +2,6 @@
 date = 2022-12-15T23:02:18Z
 description = "Please plan to join us at Arizona's December Training Webinar on Tuesday, December 20th from 11:00 a.m. to 1:00 p.m."
 disable_share = false
-draft = true
 featured_image = "/images/quality-control-flyer.png"
 tags = ["scene"]
 title = "Arizona IAAO Training Webinar - Quality Control"
