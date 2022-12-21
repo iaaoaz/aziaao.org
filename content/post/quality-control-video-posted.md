@@ -2,7 +2,6 @@
 date = 2022-12-21T20:10:19Z
 description = "Below is a video recording of the Quality Control training webinar hosted by the Arizona IAAO chapter on December 20th, 2022. "
 disable_share = false
-draft = true
 featured_image = "/images/seals.png"
 tags = ["scene"]
 title = "Quality Control Video Posted"
