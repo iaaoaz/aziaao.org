@@ -5,6 +5,6 @@ disable_share = false
 draft = true
 featured_image = "/images/aaco.png"
 tags = ["scene"]
-title = "AACO Announced the State Tax Conference 20223"
+title = "AACO Announces the State Tax Conference 2023"
 
 +++
