@@ -4,7 +4,7 @@ featured_image = "/images/154571074_s.jpg"
 title = "Scholarships & Awards"
 [menu.main]
 name = "Scholarships"
-weight = 6
+weight = 5
 
 +++
 ##### **Scholarships & Awards**

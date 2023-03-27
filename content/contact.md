@@ -6,7 +6,7 @@ description: We would love to hear from you!
 type: page
 menu:
   main:
-    weight: 5
+    weight: 6
 
 ---
 # Email
