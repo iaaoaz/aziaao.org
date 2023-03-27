@@ -6,7 +6,7 @@ title = "Join AZ IAAO"
 weight = 4
 
 +++
-##### **Benefits of Chapter membership**
+### **Benefits of Chapter membership**
 
 * AZ DOR continuing education credits for chapter meetings and other chapter-sponsored education programs.
 * Reduced luncheon cost for in-person Chapter Meetings, if applicable.
@@ -18,6 +18,6 @@ Membership to the Arizona Chapter of IAAO Membership Application is $30 for one 
 
 A minimum of four Chapter meetings are offered each year of which some are offered virtually and the remainder being offered in-person around the state.
 
-##### **Membership application**
+### **Membership application**
 
 [az-iaao-membership-application-2023-03-24.pdf](/images/az-iaao-membership-application-2023-03-24.pdf "Become a member today!")
