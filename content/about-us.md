@@ -8,9 +8,9 @@ weight = 2
 +++
 On behalf of the Executive Committee and all of our members I welcome you to our website. Your access to educational opportunities and networking is our top priority. We have utilized many tools including Facebook Live via our Facebook and a YouTube Channel to give our members access to education. We are geographically challenged and we've planned our events with you in mind!
 
-The Chapter holds routine elections and offers many opportunities for executive leadership and local involvement in IAAO activities.  
+The Chapter holds routine elections and offers many opportunities for executive leadership and local involvement in IAAO activities.
 
-#### Executive Committee
+## **Executive Committee**
 
 President - Gary Waters           	[GaryWaters@mohave.gov]()
 
@@ -30,17 +30,17 @@ Quanta Crews (Term 2022-2024)   	   [QuantaCrews@gmail.com]()
 
 Jennette Picinich (Term 2023-2025)            [jennette.picinich@maricopa.gov]()
 
-##### **Nominating Committee**
+#### **Nominating Committee**
 
 This committee identifies current and potential candidates who show willingness to serve the Arizona chapter.  Facilitate the chapter elections that occur during the last quarter of each year.
 
 **Current committee members:**
 
-_No members at this time._  
+_No members at this time._
 
 Interested in joining the nominating commitee, please email iaaoaz@gmail.com.
 
-##### **Membership Committee**
+#### **Membership Committee**
 
 This committee is primarily responsible for making recommendations to the Executive Board regarding increasing membership, providing public awareness of AZIAAO activities and steering of the public image of the Chapter.
 
@@ -49,7 +49,7 @@ This committee is primarily responsible for making recommendations to the Execut
 * Rhesa Poolaw                  [rpoolaw@lapazcountyaz.org]()
 * Tiffany Wyckoff               [twyckoff@lapazcountyaz.org]()
 
-##### **Bruce Belon Scholarship Committee**
+#### **Bruce Belon Scholarship Committee**
 
 This committee makes recommendations to the Executive Boardregarding potential local members for consideration for a grant ofAZIAAO funding to attend local and / or international tax conferences.Funds may also provide tuition assistance to local members actively seeking an IAAO Designation.
 
@@ -58,7 +58,7 @@ This committee makes recommendations to the Executive Boardregarding potential l
 * Odessa Mavrides             [omavrides@co.apache.az.us]()
 * Michelle Milton                [michelle.milton@maricopa.gov]()
 
-##### **Education/Program Committee**
+#### **Education/Program Committee**
 
 Take a hand in shaping the educational program annually offered by the AZIAAO! This committee is responsible for making recommendations to the Executive Board regarding all aspects of annual education or training sessions. This includes content, location and time of events.
 
