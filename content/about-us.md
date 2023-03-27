@@ -12,15 +12,15 @@ The Chapter holds routine elections and offers many opportunities for executive 
 
 #### Executive Committee
 
-Gary Waters, President           	[GaryWaters@mohave.gov]()
+President - Gary Waters           	[GaryWaters@mohave.gov]()
 
-Pam Biggers, Vice President      	[pamela.biggers@pima.gov]()
+Vice President - Pam Biggers       	[pamela.biggers@pima.gov]()
 
-Barbara Gomez, Secretary      	[bgomez@co.apache.az.us]()
+Secretary - Barbara Gomez     	[bgomez@co.apache.az.us]()
 
-Dennise Jones,Treasurer	               [dennise.jones@co.apache.az.us]()
+Treasurer - Dennise Jones               [dennise.jones@co.apache.az.us]()
 
-Kelly Murphy, Immediate Past President       	[kelly.murphy@maricopa.gov]()
+Immediate Past President - Kelly Murphy        	[kelly.murphy@maricopa.gov]()
 
 **Board Members**
 
