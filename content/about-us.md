@@ -47,6 +47,8 @@ This committee is primarily responsible for making recommendations to the Execut
 **Current committee members:**
 
 * Rhesa Poolaw                  [rpoolaw@lapazcountyaz.org]()
+
+
 * Tiffany Wyckoff               [twyckoff@lapazcountyaz.org]()
 
 ##### **Bruce Belon Scholarship Committee**
