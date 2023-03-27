@@ -13,21 +13,21 @@ The Chapter holds routine elections and offers many opportunities for executive 
 
 #### Executive Committee
 
-Gary Waters, President	Email: GaryWaters@mohave.gov
+Gary Waters, President	GaryWaters@mohave.gov
 
-Pam Biggers, Vice President	Email: pamela.biggers@pima.gov
+Pam Biggers, Vice President	pamela.biggers@pima.gov
 
-Barbara Gomez, Secretary	Email: bgomez@co.apache.az.us
+Barbara Gomez, Secretary	bgomez@co.apache.az.us
 
-Dennise Jones,Treasurer	Email: dennise.jones@co.apache.az.us
+Dennise Jones,Treasurer	       dennise.jones@co.apache.az.us
 
-Kelly Murphy, Immediate Past President	Email: kelly.murphy@maricopa.gov
+Kelly Murphy, Immediate Past President	kelly.murphy@maricopa.gov
 
-Christa Rush, Board Member (Term 2021-2023)	Email: crush@sboe.az.gov
+Christa Rush, Board Member (Term 2021-2023)	crush@sboe.az.gov
 
-Quanta Crews, Board Member (Term 2022-2024)	Email: QuantaCrews@gmail.com
+Quanta Crews, Board Member (Term 2022-2024)	   QuantaCrews@gmail.com
 
-Jennette Picinich, Board Member (Term 2023-2025)Email: jennette.picinich@maricopa.gov
+Jennette Picinich, Board Member (Term 2023-2025)    jennette.picinich@maricopa.gov
 
 ##### **Nominating Committee**
 
