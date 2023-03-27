@@ -12,21 +12,23 @@ The Chapter holds routine elections and offers many opportunities for executive 
 
 #### Executive Committee
 
-Gary Waters, President	GaryWaters@mohave.gov
+Gary Waters, President	[GaryWaters@mohave.gov]()
 
-Pam Biggers, Vice President	pamela.biggers@pima.gov
+Pam Biggers, Vice President	[pamela.biggers@pima.gov]()
 
-Barbara Gomez, Secretary	bgomez@co.apache.az.us
+Barbara Gomez, Secretary	[bgomez@co.apache.az.us]()
 
-Dennise Jones,Treasurer	       dennise.jones@co.apache.az.us
+Dennise Jones,Treasurer	       [dennise.jones@co.apache.az.us]()
 
-Kelly Murphy, Immediate Past President	kelly.murphy@maricopa.gov
+Kelly Murphy, Immediate Past President	[kelly.murphy@maricopa.gov]()
 
-Christa Rush, Board Member (Term 2021-2023)	crush@sboe.az.gov
+**Board Members**
 
-Quanta Crews, Board Member (Term 2022-2024)	   QuantaCrews@gmail.com
+Christa Rush (Term 2021-2023)	[crush@sboe.az.gov]()
 
-Jennette Picinich, Board Member (Term 2023-2025)    jennette.picinich@maricopa.gov
+Quanta Crews (Term 2022-2024)	   [QuantaCrews@gmail.com]()
+
+Jennette Picinich (Term 2023-2025)    [jennette.picinich@maricopa.gov]()
 
 ##### **Nominating Committee**
 
@@ -44,9 +46,9 @@ This committee is primarily responsible for making recommendations to the Execut
 
 **Current committee members:**
 
-                Rhesa Poolaw                  rpoolaw@lapazcountyaz.org
+                Rhesa Poolaw                  [rpoolaw@lapazcountyaz.org]()
 
-                Tiffany Wyckoff               twyckoff@lapazcountyaz.org
+                Tiffany Wyckoff               [twyckoff@lapazcountyaz.org]()
 
 ##### **Bruce Belon Scholarship Committee**
 
@@ -54,18 +56,18 @@ This committee makes recommendations to the Executive Boardregarding potential l
 
 **Current committee members:**
 
-                Odessa Mavrides             omavrides@co.apache.az.us
+                Odessa Mavrides             [omavrides@co.apache.az.us]()
 
-                Michelle Milton                michelle.milton@maricopa.gov
+                Michelle Milton                [michelle.milton@maricopa.gov]()
 
 ##### **Education/Program Committee**
 
 Take a hand in shaping the educational program annually offered by the AZIAAO! This committee is responsible for making recommendations to the Executive Board regarding all aspects of annual education or training sessions. This includes content, location and time of events.
 
-                Roxanne Drye                   rdrye@co.apache.az.us
+                Roxanne Drye                   [rdrye@co.apache.az.us]()
 
-                Kyle Humphrey                 kylie.humphrey@maricopa.gov
+                Kyle Humphrey                 [kylie.humphrey@maricopa.gov]()
 
-                James Stogner                  janus.stogner@maricopa.govJoin
+                James Stogner                  [janus.stogner@maricopa.govJoin]()
 
-Interested in learning more about joining a chapter committe? Please email iaaoaz@gmail.com.
+Interested in learning more about joining a chapter committe? Please email [iaaoaz@gmail.com]().
