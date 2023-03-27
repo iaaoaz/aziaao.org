@@ -7,8 +7,6 @@ name = "Scholarships"
 weight = 5
 
 +++
-##### **Scholarships & Awards**
-
 ### **Bruce Belon Scholarship Fund**
 
 The awarded scholarship amount will not exceed $700.00.
