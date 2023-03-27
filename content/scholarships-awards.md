@@ -11,7 +11,9 @@ weight = 5
 
 ### **Bruce Belon Scholarship Fund**
 
-The scholarship amount will not exceed $700.00.
+The awarded scholarship amount will not exceed $700.00.
+
+Bruce Belon was President of the National IAAO organization from September 1997-1998 who passed suddenly and unexpectedly in at the annual conference. Bruce was a strong supporter and co-founder of the current Arizona Chapter, a Department of Revenue Colleague and a dear friend to many in the profession of tax assessment. In his memory for many years now, AZ IAAO has dedicated funds which are available to all members.
 
 This scholarship fund must be used for tuition or admission fees of educational programs, courses, workshops or conferences related to property taxation or appraisal. The purpose of this fund is to provide a supplement for individuals who will not receive any reimbursement amount that exceeds the full tuition of the program minus the scholarship amount. As part of the agreement to accept this money the recipient agrees to return to the AZ IAAO Chapter any funds not used or spent for the purposes as described on this application and agrees to provide proof of attendance or pass/fail to the Chapter Treasurer within 30 days after the ending date of the program applied for.
 
