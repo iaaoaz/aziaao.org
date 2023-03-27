@@ -47,8 +47,6 @@ This committee is primarily responsible for making recommendations to the Execut
 **Current committee members:**
 
 * Rhesa Poolaw                  [rpoolaw@lapazcountyaz.org]()
-
-
 * Tiffany Wyckoff               [twyckoff@lapazcountyaz.org]()
 
 ##### **Bruce Belon Scholarship Committee**
@@ -57,18 +55,15 @@ This committee makes recommendations to the Executive Boardregarding potential l
 
 **Current committee members:**
 
-                Odessa Mavrides             [omavrides@co.apache.az.us]()
-
-                Michelle Milton                [michelle.milton@maricopa.gov]()
+* Odessa Mavrides             [omavrides@co.apache.az.us]()
+* Michelle Milton                [michelle.milton@maricopa.gov]()
 
 ##### **Education/Program Committee**
 
 Take a hand in shaping the educational program annually offered by the AZIAAO! This committee is responsible for making recommendations to the Executive Board regarding all aspects of annual education or training sessions. This includes content, location and time of events.
 
-                Roxanne Drye                   [rdrye@co.apache.az.us]()
-
-                Kyle Humphrey                 [kylie.humphrey@maricopa.gov]()
-
-                James Stogner                  [janus.stogner@maricopa.govJoin]()
+* Roxanne Drye                   [rdrye@co.apache.az.us]()
+* Kyle Humphrey                 [kylie.humphrey@maricopa.gov]()
+* James Stogner                  [janus.stogner@maricopa.gov]()
 
 Interested in learning more about joining a chapter committe? Please email [iaaoaz@gmail.com]().
