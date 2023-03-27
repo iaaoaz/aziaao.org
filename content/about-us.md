@@ -1,5 +1,6 @@
 +++
 description = "A Message From the President"
+draft = true
 featured_image = "/images/cropped-mbeck2-2400x1299.jpg"
 title = "About Us"
 [menu.main]
